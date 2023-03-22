@@ -6,6 +6,7 @@ print("|                 4} FIND DETERMINANT                            |")
 print("|                 5} SYMMETRIC                                   |")
 print("|                 6} SKEWSYMMETRIC                               |")
 print("------------------------------------------------------------------")
+print("give input correctly")
 
 
 def Addition():
